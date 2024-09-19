@@ -1,7 +1,7 @@
 # Charging Functions
 from functions import agregar_insumos
 
-# Función princasacipal
+# Función principal ja
 def main():
     modulo = input("Introduce el nombre del módulo: ")
     actividades = {}
